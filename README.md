@@ -44,6 +44,8 @@ Stepwise Table of Frame Contents
 ![5](https://github.com/user-attachments/assets/284d79e3-db5a-4a27-a92b-ec331353cffb)
 ![6](https://github.com/user-attachments/assets/47e85635-0b23-41a9-8807-02b42b9cb727)
 
+- **Thanks for visiting the repo — feel free to explore, fork, or contribute!**
+
 
 
 
