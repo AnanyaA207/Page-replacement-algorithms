@@ -37,7 +37,7 @@ It lets users explore how different algorithms perform in terms of **page faults
 
 ![4](https://github.com/user-attachments/assets/bd4ce422-8a8b-4b03-a8cb-7273f5b072ad)
 
-![5](https://github.com/user-attachments/assets/0c1871da-648b-4bf1-932d-f28f80beed42)
+![5](https://github.com/user-attachments/assets/284d79e3-db5a-4a27-a92b-ec331353cffb)
 ![6](https://github.com/user-attachments/assets/47e85635-0b23-41a9-8807-02b42b9cb727)
 
 
