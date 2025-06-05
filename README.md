@@ -27,3 +27,6 @@ It lets users explore how different algorithms perform in terms of **page faults
 - **Downloadable CSV report** summarizing results for all frame sizes.
 
 - **Data table** to compare stepwise frame contents and hits/faults across all three algorithms.
+
+
+![1](https://github.com/user-attachments/assets/ac3ca1f3-604e-4ebf-8bf7-f93421701105)
