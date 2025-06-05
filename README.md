@@ -1,7 +1,7 @@
-# Page Replacement Algorithms Dashboard
+# Page Replacement Algorithms 
 
 # 🚀 Project Overview
-This project is a **Page Replacement Algorithms Dashboard** built with **Python** and **Streamlit** that simulates and compares popular page replacement algorithms — **FIFO**, **LRU**, and **Optimal** — using randomly generated memory access streams.
+This project is a **Page Replacement Algorithms Dashboard** built with **Python** and **Streamlit** that simulates and compares popular page replacement algorithms (**FIFO**, **LRU**, and **Optimal**), using randomly generated memory access streams.
 
 It lets users explore how different algorithms perform in terms of **page faults** and **hit ratios** as the number of available frames changes. Interactive sliders, plots, and tables provide an intuitive way to visualize and analyze the results.
 
