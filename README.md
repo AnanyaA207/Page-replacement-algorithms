@@ -31,14 +31,16 @@ It lets users explore how different algorithms perform in terms of **page faults
 
 ![1](https://github.com/user-attachments/assets/ac3ca1f3-604e-4ebf-8bf7-f93421701105)
 
+Page Faults vs Frame Size Plot
 ![2](https://github.com/user-attachments/assets/4aa428d3-5912-4274-8b17-3bc1336a1f94)
 
-Page Faults vs Frame Size Plot
+Hit Ratio vs Frame Size Plot
 ![3](https://github.com/user-attachments/assets/bbd92190-36b5-4183-adf9-46ce22ee67af)
 
-Hit Ratio vs Frame Size Plot
+Comparison Bar Chart
 ![4](https://github.com/user-attachments/assets/bd4ce422-8a8b-4b03-a8cb-7273f5b072ad)
 
+Stepwise Table of Frame Contents
 ![5](https://github.com/user-attachments/assets/284d79e3-db5a-4a27-a92b-ec331353cffb)
 ![6](https://github.com/user-attachments/assets/47e85635-0b23-41a9-8807-02b42b9cb727)
 
